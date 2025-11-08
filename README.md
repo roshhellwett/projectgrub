@@ -1,6 +1,6 @@
 <!-- 🧩 GRUB THEME README — By Rosh Hellwett -->
 
-<h1 align="center">✨ GRUB — Vimix Edition ✨</h1>
+<h1 align="center">✨ GRUB — VIMIX EDITION ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Linux-2ea44f?style=for-the-badge&logo=linux&logoColor=white" />
