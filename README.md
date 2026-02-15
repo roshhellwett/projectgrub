@@ -73,4 +73,9 @@ sudo update-grub          # Debian / Ubuntu
 sudo grub2-mkconfig -o /boot/grub2/grub.cfg   # Fedora / RHEL
 sudo reboot # Reboot System In End
 ```
+---
 
+© 2026 [Zenith Open Source Projects](https://zenithprojects.up.railway.app/). All Rights Reserved.  
+Zenith is a Open Source Project Idea's by @roshhellwett
+
+---
