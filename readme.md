@@ -36,8 +36,6 @@ Inspired by the famous **Vimix** design language, this theme blends minimalism, 
 - 🧡 Based on the **Vimix** color and typography scheme  
 - ⚙️ Works across major Linux distributions (Ubuntu, Fedora, Arch, etc.)
 
----
-
 ## 🗂️ Files Included
 
 | File | Description |
@@ -48,8 +46,6 @@ Inspired by the famous **Vimix** design language, this theme blends minimalism, 
 | `LICENSE` | Apache License 2.0 |
 | `README.md` | This file |
 
----
-
 ## ⚙️ Installation
 
 ### 🧰 Step 1 — Choose your version
@@ -59,7 +55,7 @@ Download your preferred resolution:
 - [⬇️ Vimix-4k.zip](./Vimix-4k.zip)
 
 ### 📦 Step 2 — Extract the files
-```bash
+```
 sudo mkdir -p /boot/grub/themes
 sudo unzip Vimix-1080p.zip -d /boot/grub/themes/vimix
 ```
@@ -77,5 +73,3 @@ sudo reboot # Reboot System In End
 
 © 2026 [Zenith Open Source Projects](https://zenithopensourceprojects.vercel.app/). All Rights Reserved.  
 Zenith is a Open Source Project Idea's by @roshhellwett
-
----
